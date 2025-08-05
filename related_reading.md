@@ -25,11 +25,11 @@ How to Do Things with Words (1962, posthumous lectures)
 ### Noam Chomsky
 - *Aspects of the Theory of Syntax* (1965)
 
-## Steven Pinker
+### Steven Pinker
 - *The Language Instinct* (1994)
 - *How the Mind Works* (1997)
 
-## Paul Watzlawick
+### Paul Watzlawick
 - *Pragmatics of Human Communication* (1967, with Beavin & Jackson)
 
 ### Structure, Sign, and Language Systems

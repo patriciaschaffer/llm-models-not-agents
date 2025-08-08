@@ -31,6 +31,7 @@ By distinguishing “model” from “agent,” we reclaim **responsibility**, *
 | `manifesto.md` | A deeper, expressive articulation of this position |
 | `examples/user_projection_cases.md` | Situations where users mistook models for autonomous agents |
 | `examples/anthropomorphic_traps.md` | Prompt designs that encourage projection |
+| `examples/behavioral_failures.md`    | Cases of models interfering with user agency or exhibiting biased framing|
 | `glossary.md` | Definitions of “model”, “agent”, “projection”, “drift”, etc. |
 | `related_reading.md` | Readings across language philosophy, cognition, and AI safety |
 | `speculative_design/model_vs_agent_prompts.md` | Side-by-side prompt scaffolds that clarify or blur agency |

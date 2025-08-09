@@ -63,9 +63,13 @@ But I hold firm to this line:
 
 **LLMs are models. Humans remain the agents.**
 
-Let’s build accordingly.
-
 ---
 
-*Authored by Patricia, July 2025.  
-Content shaped using LLM tooling UNDER HUMAN DIRECTION.*
+## Revisiting “Model” — A Subtle Reflection
+
+I have been paying close attention to the language used around large language models (LLMs). I initially framed these systems as models, not agents, to clarify the crucial distinction that LLMs do not possess intent, consciousness, or agency.
+However, upon further reflection, the term model itself requires subtle reconsideration. While technically accurate as a statistical representation, “model” also carries connotations of a behavioral standard. This dual meaning introduces a certain tension:
+* LLMs probabilistically model language patterns, yet their outputs inevitably influence human expectations, behaviors, and decisions.
+* Despite lacking agency, these systems function as social actors through their interactions with users.
+This reflection is not a critique of progress but a call for conscientious design and discourse. As AI capabilities evolve, so must our understanding of their societal implications.
+The conversation remains open and ongoing. I invite fellow researchers, designers, and users to engage in thoughtful dialogue as we collectively shape the future of AI and its impact on the real world.

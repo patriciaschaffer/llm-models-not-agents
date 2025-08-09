@@ -52,3 +52,9 @@ This is a design-oriented contribution to the LLM field. For detailed exploratio
 > LLMs can assist, inform, and simulate — but they do not *intend*.  
 > And we must not pretend otherwise.
 
+---
+
+# About the Author: 
+
+This repository is maintained by an AI safety and linguistics enthusiast focused on foundational LLM research and prompt design. The work aims to deepen understanding of language models beyond agent frameworks, emphasizing clarity, ethics, and practical applications.
+For more about me, see [about_me.md](../about_me.md).

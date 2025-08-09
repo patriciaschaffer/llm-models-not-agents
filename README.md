@@ -1,43 +1,36 @@
 # llm-models-not-agents
-Reframing LLMs: not agents, but probabilistic mirrors shaped by us.
+Reframing LLMs: not agents, but probabilistic mirrors shaped by us. 
 
-# LLMs Are Models, Not Agents — And That Matters
+# LLMs Are Not Agents — And That Matters
 
 This repository proposes a simple shift in framing with far-reaching implications:
 
 > **Language models are not agents.**
+> They should not model human behaviour.
 > They do not intend, choose, or act.  
 > They simulate, assist, and echo.
 
 ---
 
-## 🧭 Purpose
+## Purpose
 
-This is a philosophical and design-oriented contribution to the LLM field.
-
-In an era where anthropomorphic metaphors dominate, we must return to clarity:  
-- **Models** are trained systems responding to input probabilistically.  
-- **Agency** belongs to humans.  
-- **Projection** is a natural risk, but not a design inevitability.
-
-By distinguishing “model” from “agent,” we reclaim **responsibility**, **design integrity**, and **alignment clarity**.
+This is a design-oriented contribution to the LLM field. For detailed exploration, see `manifesto.md`. 
 
 ---
 
-## 📘 What's Inside
+## What's Inside
 
 | File | Description |
 |------|-------------|
 | `manifesto.md` | A deeper, expressive articulation of this position |
-| `examples/user_projection_cases.md` | Situations where users mistook models for autonomous agents |
+| `examples/behavioral_failures.md` | Situations where human agency is blurred |
 | `examples/anthropomorphic_traps.md` | Prompt designs that encourage projection |
 | `glossary.md` | Definitions of “model”, “agent”, “projection”, “drift”, etc. |
 | `related_reading.md` | Readings across language philosophy, cognition, and AI safety |
-| `speculative_design/model_vs_agent_prompts.md` | Side-by-side prompt scaffolds that clarify or blur agency |
 
 ---
 
-## 🎯 Who This Is For
+## Who This Is For
 
 - Alignment researchers and evaluators  
 - Model designers and prompt engineers  
@@ -46,7 +39,15 @@ By distinguishing “model” from “agent,” we reclaim **responsibility**, *
 
 ---
 
-## 🧩 Core Message
+## Clarity: 
+
+- **Models** are trained systems responding to input probabilistically, but never to model human behavior.  
+- **Agency** belongs to humans.  
+- **Projection** is a natural risk, but not a design inevitability, and it may sometimes be useful.
+
+---
+
+## Core Message
 
 > LLMs can assist, inform, and simulate — but they do not *intend*.  
 > And we must not pretend otherwise.

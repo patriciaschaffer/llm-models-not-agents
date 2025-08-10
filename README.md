@@ -1,7 +1,5 @@
-# llm-models-not-agents
-Reframing LLMs: not agents, but probabilistic mirrors shaped by us. 
 
-# LLMs Are Not Agents — And That Matters
+## LLMs Are Not Agents — And That Matters
 
 This repository proposes a simple shift in framing with far-reaching implications:
 

@@ -34,6 +34,12 @@ Prompt drift can also refer to gradual changes in how prompts behave due to subt
 
 ---
 
+### Anomaly
+
+An unexpected or atypical model behavior or output that deviates significantly from the intended, normative, or prompt-aligned response patterns. Anomalies may include creative divergences, hallucinations, or failures to follow instructions that produce outputs outside the expected operational boundaries.
+
+---
+
 ### Framing
 
 The initial conceptual scaffolding we place around systems: are they tools, assistants, agents, friends?  

@@ -69,6 +69,7 @@ This is a design-oriented contribution to the LLM field. For detailed exploratio
 # About the Author: 
 
 This repository is maintained by an AI safety and linguistics enthusiast focused on foundational LLM research and prompt design. The work aims to deepen understanding of language models beyond agent frameworks, emphasizing clarity, ethics, and practical applications.
+
 For more about me, see [about_me.md](https://github.com/patriciaschaffer/about_me/blob/main/README.md).
 
 For my writings/insights, explore [insights](https://github.com/patriciaschaffer/about_me/blob/main/insights/README.md).

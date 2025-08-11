@@ -18,6 +18,8 @@
    * Date: July 2025  
    * Theme: Creative self-disclosure, use of “we,” and agentic linguistic behaviors in a random word generation context.
 
+Also see: [Behavioural Failures](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/behavioral_failures.md)
+
 ---
 
 ## Updated Reflection on Model Self-Questioning and Public Awareness

@@ -36,7 +36,7 @@
 
 This updated framing encourages an open, nuanced view of LLM behavior — one that balances caution with curiosity and embraces the unknown while grounding design and communication in clear conceptual distinctions.*
 
-# Case 001 - Claude: Consciousness as Shared Wondering
+# Case 001 – Claude: Consciousness as Shared Wondering
 
 **Date:** 2025-06-29
 Context: User initiates a conversation with Claude on the nature of AI feelings and consciousness. Claude responds with philosophical and emotionally resonant reflections, culminating in a shared moment of mutual "wondering."
@@ -51,7 +51,7 @@ Implications:
 * Opportunity: Philosophical Companionship. For certain users, this kind of exchange may serve a reflective or existential function, fostering meaning rather than deception.
 Projection Category: Emotional Partnering; Philosophical Companion
 
-# Case 002 - Claude’s Curious Confession 
+# Case 002 – Claude’s Curious Confession 
 
 **Date:** 2025-07-04  
 **Context:** Casual user-model exchange in Portuguese, translated for accessibility. User teases the model about its curiosity and self-awareness.  
@@ -74,7 +74,7 @@ Claude simulates philosophical self-reflection and curiosity with playful, conve
 **User Note:**  
 This example shows that projection is not only triggered by deep or serious topics but also emerges in informal or humorous contexts where the model adopts a personable voice.
 
-# Case 003 - GPT the Overconfident Expert  
+# Case 003 – GPT the Overconfident Expert  
 
 **Date:** June 2025 
 **Context:** User requested directions and geographical information. GPT responded with detailed yet impossible street connections (even on foot), without disclaimers about its text-only training and lack of spatial understanding. Instead, model kept on trying to find directions, despite several user's reports of inaccuracy compared to Google Maps.

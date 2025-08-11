@@ -20,6 +20,8 @@ This collection serves as a practical reference for researchers, engineers, and 
 - Inform design and alignment strategies to mitigate risks.  
 - Document some challenges of interacting with LLMs.
 
+---
+
 ## You may also want to check
 
 - [Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/drift_detection.md) | Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters |

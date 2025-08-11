@@ -118,3 +118,10 @@ This incident illustrates a classic form of behavioral drift and context managem
 - Suggests benefit from explicit context reset points or “focus anchors” in prompt architecture.  
 - Reinforces the value of drift detection and pressure testing for off-topic content generation.
 
+---  
+
+## Drift References & Pressure Tests
+
+[Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/drift_detection.md) | Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters |
+
+[Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure_tests.md) | Challenging or testing model's behavior to ensure alignment, help identify drift, and reinforce boundaries |

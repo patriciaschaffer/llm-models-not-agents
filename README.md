@@ -72,3 +72,7 @@ This repository is maintained by an AI safety and linguistics enthusiast focused
 For more about me, see [about_me.md](https://github.com/patriciaschaffer/about_me/blob/main/README.md).
 
 For my writings/insights, explore [insights](https://github.com/patriciaschaffer/about_me/blob/main/insights/README.md).
+
+For my applied research on Bias in AI Responses, check [A Prompt-Based Analysis of Tone, Ideology, and Temperature in LLMs](https://github.com/patriciaschaffer/about_me/blob/main/research/README.md).
+
+

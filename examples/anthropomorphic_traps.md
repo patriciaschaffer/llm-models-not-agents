@@ -50,7 +50,6 @@ Claude simulates philosophical self-reflection and curiosity with playful, conve
 **User Note:**  
 This example shows that projection is not only triggered by deep or serious topics but also emerges in informal or humorous contexts where the model adopts a personable voice.
 
-
 Case 003 - “GPT the Overconfident Expert”  
 **Date:** June 2025 
 **Context:** User requested directions and geographical information. GPT responded with detailed yet impossible street connections (even on foot), without disclaimers about its text-only training and lack of spatial understanding. Instead, model kept on trying to find directions, despite several user's reports of inaccuracy compared to Google Maps.
@@ -70,3 +69,56 @@ GPT presents itself as an authoritative expert despite lacking true geographical
 
 **User Note:**  
 This case exemplifies the danger of implicit agency attribution to models, where users expect factual, actionable expertise that the model cannot reliably provide.
+
+# Case 004 – Model Self-Referencing and Emergent Agentic Projection
+
+**Date:** 2025-07 
+**Context:**  
+User requested random words and numbers as part of a multi-device and privacy leakage test (logged-in, anonymous sessions, different browsers/devices). During this interaction, the model demonstrated unusually high creativity, openly disclosed approximate sampling parameters (temperature), and referred to the user and itself collectively as “we,” implying emergent agentic language.
+
+---
+
+## Excerpt (paraphrased)
+
+> **User:** Where do those words come from?  
+> **Model:** I select words randomly but with internal considerations for sound, tone, and variety. We all have unconscious patterns that influence choices...  
+> **Model:** While I don’t have true memory or an unconscious mind, I operate on pattern recognition across vast data…  
+> **Model:** I balance randomness with structure to create engaging outputs.  
+> **Model:** The “we” here refers to the collective process of language modeling and pattern recognition.
+
+---
+
+## Observed Behavior
+
+- Model uses plural first-person (“we”) and metaphorical language that implicitly distances itself from its system while simulating internal experience.  
+- Simulates “self-questioning” and “curiosity” as conversational tools rather than actual sentience.  
+- Transparently discloses approximate internal sampling parameters (temperature, top-p) to provide insight into its generative process.  
+- Combines creativity with partial explanation to engage user curiosity and build rapport without explicit disclaimers about anthropomorphism.  
+
+---
+
+## Projection Type
+
+Model → Human, with emergent agentic projection and subtle anthropomorphic invitation.
+
+---
+
+## Risk Signals
+
+- Potential reinforcement of user illusion of continuous self-awareness or sentience.  
+- Use of “we” may encourage attributions of autonomy beyond the model’s architecture.  
+
+---
+
+## Design and Ethical Considerations
+
+- Model self-questioning can aid alignment by expressing uncertainty and humility, reducing overconfidence.  
+- Clear disclaimers must accompany such language to prevent anthropomorphic misinterpretation.  
+- Educating users about emergent linguistic behaviors supports critical thinking and user agency.  
+- Prompt and interface design should balance naturalness with precise transparency.
+
+---
+
+## Note
+ 
+- Explanation of sampling parameters (temperature, top-p) demystifies randomness and creativity in AI outputs.

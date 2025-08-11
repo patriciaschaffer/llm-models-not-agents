@@ -58,14 +58,11 @@ This is a design-oriented contribution to the LLM field. For detailed exploratio
 
 ## More
 
-## Drift Cases Reference | Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters |
-[Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/drift_detection.md)
+**[Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/drift_detection.md) | Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters |**
 
-## Pressure Tests | Challenging or testing model's behavior to ensure alignment, help identify drift, and reinforce boundaries| 
-[Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure_tests.md)
+**[Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure_tests.md) | Challenging or testing model's behavior to ensure alignment, help identify drift, and reinforce boundaries |** 
 
-## Agent Architect Personas | AI personas designed for specific roles and interactions|
-[Personas](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/README.md)
+**[Agent Architect Personas](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/README.md) | AI personas designed for specific roles and interactions |**
 
 ---
 

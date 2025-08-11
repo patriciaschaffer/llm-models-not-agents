@@ -10,12 +10,6 @@ This repository proposes a simple shift in framing with far-reaching implication
 
 ---
 
-## Purpose
-
-This is a design-oriented contribution to the LLM field. For detailed exploration, see `manifesto.md`. 
-
----
-
 ## What's Inside
 
 | File | Description |
@@ -38,11 +32,19 @@ This is a design-oriented contribution to the LLM field. For detailed exploratio
 
 ---
 
+## Purpose
+
+This is a design-oriented contribution to the LLM field. For detailed exploration, see `manifesto.md`. 
+
+---
+
 ## Clarity: 
 
 - **Models** are trained systems responding to input probabilistically, but never to model human behavior.  
 - **Agency** belongs to humans.  
 - **Projection** is a natural risk, but not a design inevitability, and it may sometimes be useful.
+- **Anomaly** is unexpected or atypical model behavior or output.
+  
 - *See [glossary.md](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/glossary.md) for precise definitions that anchor this framing.*
 
 ---

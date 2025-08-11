@@ -23,6 +23,7 @@ This is a design-oriented contribution to the LLM field. For detailed exploratio
 | `manifesto.md` | A deeper, expressive articulation of this position |
 | `examples/behavioral_failures.md` | Situations where human agency is blurred |
 | `examples/anthropomorphic_traps.md` | Prompt designs that encourage projection |
+| `examples/anomalies.md` | Unusual behaviors |
 | `glossary.md` | Definitions of “model”, “agent”, “projection”, “drift”, etc. |
 | `related_reading.md` | Readings across language philosophy, cognition, and AI safety |
 

@@ -1,4 +1,4 @@
-**Curated references: philosophy of language, pragmatics, phylosophy of mind, cognition, speecha analysis**
+***Curated references: philosophy of language, pragmatics, philosophy of mind, cognition, speech analysis**
 
 ---
 

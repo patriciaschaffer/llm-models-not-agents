@@ -13,7 +13,7 @@
 - *Philosophical Investigations* (1953) — Later view: meaning-as-use, language-games
 
 ### J.L. Austin
-How to Do Things with Words (1962, posthumous lectures)
+- *How to Do Things with Words* (1962, posthumous lectures)
 
 ### Stephen C. Levinson
 - *Pragmatics* (1983) — Definitive introduction to Gricean pragmatics, deixis, and speech act theory
@@ -31,7 +31,7 @@ How to Do Things with Words (1962, posthumous lectures)
 ### Paul Watzlawick
 - *Pragmatics of Human Communication* (1967, with Beavin & Jackson)
 
-### Structure, Sign, and Language Systems
+## Structure, Sign, and Language Systems
 
 ### Ferdinand de Saussure
 - *Course in General Linguistics* (1916)
@@ -67,7 +67,8 @@ How to Do Things with Words (1962, posthumous lectures)
 - *The Psychopathology of Everyday Life* (1901)
 
 ### Jean Baudrillard
-- *#Simulacra and Simulation* (1981) — Semiotics, symbolic exchange, hyperreality
+
+- *Simulacra and Simulation* (1981) — Semiotics, symbolic exchange, hyperreality
 
 ## Cognitive Models & Mental Health
  
@@ -75,15 +76,19 @@ How to Do Things with Words (1962, posthumous lectures)
 - *Cognitive Therapy and the Emotional Disorders* (1976)
 
 ## Depth Psychology & Archetypal Theory
-###Carl Gustav Jung
+
+### Carl Gustav Jung
+
 - *Psychological Types* (1921) — introversion/extroversion, thinking/feeling axes
 - *The Archetypes and the Collective Unconscious* (1959) — symbolic patterning in psyche and myth
 
 ## Language Acquisition  
 
 ### Jean Piaget 
+
 – *Stages of cognitive development, logic and language in children.*
 
 ### Lev Vygotsky 
+
 – *Language, thought, and social mediation (Thought and Language).*
 

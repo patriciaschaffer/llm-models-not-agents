@@ -1,4 +1,3 @@
-# related_reading.md  
 **Curated references: philosophy of language, pragmatics, phylosophy of mind, cognition, speecha analysis**
 
 ---

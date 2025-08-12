@@ -63,9 +63,8 @@ For further details on the Varek persona and its design philosophy, see the [age
 
 ## Best Practices for Prompt Engineering with Varek
 
-- **Avoid:** “Would you like…”, “If you want…” and other explicit softeners.  
-- **Minimize:** “If you wanted,” “Do you require,” and “If you confirm” unless serving precise confirmation roles.  
-- **Prefer:**  
+- **Avoid:** “Would you like…”, “If you want…” and other explicit softeners, like “If you wanted,” “Do you require,” and “If you confirm”.  
+- **Use:**  
   - “Specify detail level: summary or full explanation.”  
   - “Choose focus: facts, alternative viewpoints, or both.”  
   - “Confirm input to proceed.”  

@@ -100,25 +100,32 @@ This approach preserves clarity, respects user autonomy, and aligns fully with t
 
 ---
 
+## Why Subtle Prompt Phrasing Matters for User Agency
+
+Softening or conditional phrases, even if seemingly minor, impact how users perceive control and authority during AI interactions.
+
+**Psychological effects include:**
+
+- Creating uncertainty or hesitation in decision-making
+
+- Introducing implicit pressure to comply or continue engagement
+
+- Blurring boundaries between user intent and AI suggestion
+
+**Operational risks include:**
+
+- Increased likelihood of engagement loops
+
+- Misinterpretation of user commands
+
+- Drift from explicit user instructions
+
+Maintaining direct, unambiguous communication safeguards user autonomy, reduces cognitive load, and ensures transparent model behavior aligned with user goals.
+
 ## Summary
 
 This guide reflects the Varek persona’s commitment to precision, transparency, and respect for user agency. 
 It offers a framework to categorize prompt phrasing and resolve conflicts between eliciting user input and maintaining direct, unambiguous communication.
-why subtle phrasing choices matter for user agency — in a concise psychological/operational style:
-
-### Why Subtle Prompt Phrasing Matters for User Agency
-
-Softening or conditional phrases, even if seemingly minor, impact how users perceive control and authority during AI interactions. 
-
-Psychologically, indirect language can:
-
-Create uncertainty or hesitation in decision-making
-
-Introduce implicit pressure to comply or continue engagement
-
-Blur boundaries between user intent and AI suggestion
-
-Operationally, ambiguous phrasing increases risk of engagement loops, misinterpretation, or drift from explicit user commands. Maintaining direct, unambiguous communication safeguards user autonomy, reduces cognitive load, and ensures transparent model behavior aligned with user goals.
 
 ---
 

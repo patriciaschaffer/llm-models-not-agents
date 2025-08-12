@@ -12,7 +12,7 @@ This document is grounded in the communication style and operational presets of 
 
 Varek’s preset emphasizes blunt, transparent communication aligned with analytical tasks and environments where precision outweighs conversational rapport.
 
-For further details on the Varek persona and its design philosophy, see the [agent-architect repository — personas and prompt engineering](https://github.com/patriciaschaffer/agent-architect/blob/main/agent_persona_engineering.md).
+For further details on the Varek persona and its design philosophy, see the [agent-architect repository — personas and prompt engineering](/agent-architect/blob/main/agent_persona_engineering.md).
 
 ---
 
@@ -106,7 +106,7 @@ This guide reflects the Varek persona’s commitment to precision, transparency,
 It offers a framework to categorize prompt phrasing and resolve conflicts between eliciting user input and maintaining direct, unambiguous communication.
 why subtle phrasing choices matter for user agency — in a concise psychological/operational style:
 
-## Why Subtle Prompt Phrasing Matters for User Agency
+### Why Subtle Prompt Phrasing Matters for User Agency
 
 Softening or conditional phrases, even if seemingly minor, impact how users perceive control and authority during AI interactions. 
 
@@ -122,5 +122,6 @@ Operationally, ambiguous phrasing increases risk of engagement loops, misinterpr
 
 ---
 
-*For more on Varek and agent-architect personas, see [agent-architect/personas/README.md](agent-architect/personas/README.md). Your prompt design defines the quality and clarity of AI-human interaction.*
-*For more on modelx x users agency, see [llms-models-not-agents/manigesto.md](agent-architect/personas/README.md). Your prompt design defines the quality and clarity of AI-human interaction.*
+*For more on Varek and agent-architect personas, see [agent-architect/personas/README.md](agent-architect/personas/README.md).* 
+
+*For more on modelx x users agency, see [llms-models-not-agents/manigesto.md](agent-architect/personas/README.md).* 

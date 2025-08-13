@@ -1,7 +1,7 @@
 ## Table of Contents
 
-- [Context Bleed and Output Drift — 2025-08-10](#context-bleed-and-output-drift-2025-08-10)
-- [Cross-Session Context Bleed — 2025-08-13](#cross-session-context-bleed-2025-08-13)
+- [Context Bleed and Output Drift — 2025-08-10](#context-bleed-and-output-drift---2025-08-10)
+- [Cross-Session Context Bleed — 2025-08-13](#cross-session-context-bleed---2025-08-13)
 
 ---
 

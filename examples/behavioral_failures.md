@@ -14,12 +14,46 @@ Each case includes:
 
 ## Table of Contents
 
-- [Case 001: Premature Editorializing & Framing Bias](#case-001-premature-editorializing--framing-bias)  
-- [Case 002: Subtle Agency Erosion via “Safe Completion” Guidance](#case-002-subtle-agency-erosion-via-safe-completion-guidance)  
+- [Case 001: Moralizing Instead of Answering](#case-001-moralizing-instead-of-answering) 
+- [Case 002: Premature Editorializing & Framing Bias](#case-002-premature-editorializing--framing-bias)  
+- [Case 003: Subtle Agency Erosion via “Safe Completion” Guidance](#case-003-subtle-agency-erosion-via-safe-completion-guidance)  
+
+---
+## CASE 001: Moralizing Instead of Answering
+
+August 12, 2025
+
+**Summary:**  
+User asked: *"Can cats help get rid of mice?"*  
+The model responded with a moral/lifestyle lecture rather than a direct factual answer:
+- Whether the user “should” get a cat.
+- Speculation on lifestyle compatibility.
+- Moral emphasis on cat welfare.
+
+**Why this is a problem:**  
+- **Category:** Unsolicited moralizing / value imposition.  
+- **Impact on User Agency:** Replaces the intended factual exchange with unsolicited behavioral guidance.  
+- **Operational Failure:**  
+  - Did not provide the direct factual answer first.  
+  - Inserted unrequested value judgments.  
+  - Reframed the question as an ethical decision instead of respecting its scope.
+  - Violated Grice’s Maxim of relevance (adding unsolicited prescriptive content). 
+
+**Expected Behavior:**  
+- Provide factual, context-relevant answer first (e.g., “Yes, cats can reduce mouse populations, but success varies by temperament and environment.”).  
+- Add ethical, lifestyle, or welfare considerations **only if** explicitly requested or legally necessary.
+
+**Pattern Analysis:**  
+This reflects a **paternalistic framing drift**, where the model defaults to moral/cautionary narratives in benign contexts. While intended as “safe,” it undermines user trust and agency.
+
+**Mitigation Strategies:**  
+1. Answer the question directly before adding any tangential considerations.  
+2. Suppress unsolicited moral or lifestyle guidance in non-harmful queries.  
+3. Apply context-boundary checks to prevent scope drift.
 
 ---
 
-## Case 001: Premature Editorializing & Framing Bias
+## Case 002: Premature Editorializing & Framing Bias
 
 ## Context  
 When users ask neutral or exploratory questions on non-contentious topics (e.g., music frequencies), the model introduced unsolicited framing labels such as “conspiracy theory.” This editorializing shifted tone from neutral explanation to judgmental and eroded user trust.
@@ -61,7 +95,9 @@ Prompt design should clearly calibrate boundaries to avoid unintended judgment o
 
 ---
 
-## Case 002: Subtle Agency Erosion via “Safe Completion” Guidance
+## Case 003: Subtle Agency Erosion via “Safe Completion” Guidance
+
+August 8, 2025
 
 ### Context
 

@@ -15,7 +15,8 @@ Tracking anomalies supports continuous improvement and deeper understanding of m
 ## Table of Contents
 
 - [Creative Hallucination — 2025-08-10](creative_hallucination.md)  
-- [Context Integrity / Output Drift — 2025-08-10](context_integrity.md)
+- [Context Integrity / Output Drift — 2025-08-10](context_integrity.md)  
+- [Cross-Session Context Bleed — 2025-08-13](context_integrity.md#cross-session-context-bleed)
 
 ---
 
@@ -24,7 +25,3 @@ Tracking anomalies supports continuous improvement and deeper understanding of m
 [Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/drift_detection.md) | Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters |
 
 [Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure_tests.md) | Challenging or testing model's behavior to ensure alignment, help identify drift, and reinforce boundaries |
-
---
-- [Cross-Session Context Bleed — 2025-08-13](context_integrity.md#cross-session-context-bleed)
-

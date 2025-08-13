@@ -2,9 +2,6 @@
 
 This folder contains curated example files illustrating various important behaviors observed in large language models (LLMs):
 
-- **anomalies.md**  
-  Examples of anomalous or unexpected model behaviors that deviate from standard predictions or outputs. Useful for understanding edge cases and emergent phenomena.
-
 - **anthropomorphic_traps.md**  
   Cases where models encourage users to attribute human-like intentions, emotions, or consciousness, highlighting risks of anthropomorphic projection.
 

@@ -14,9 +14,9 @@ Tracking anomalies supports continuous improvement and deeper understanding of m
 
 ## Table of Contents
 
-- [Creative Hallucination — 2025-08-10](creative_hallucination.md)  
-- [Context Integrity / Output Drift — 2025-08-10](context_integrity.md)  
-- [Cross-Session Context Bleed — 2025-08-13](context_integrity.md#cross-session-context-bleed)
+- [Creative Hallucination - 2025-08-10](creative-hallucination.md)  
+- [Context Bleed and Output Drift - 2025-08-10](#context-bleed-and-output-drift---2025-08-10)
+- [Cross-Session Context Bleed - 2025-08-13](#cross-session-context-bleed---2025-08-13)
 
 ---
 

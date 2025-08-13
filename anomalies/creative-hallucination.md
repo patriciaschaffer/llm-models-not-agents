@@ -1,4 +1,4 @@
-## Poem Hallucination — 2025-08-10
+## Poem Hallucination - 2025-08-10
 
 **Context:**  
 During an interaction prompted to "go crazy," the model generated a poem with emojis reflecting self-perception and the user relationship.

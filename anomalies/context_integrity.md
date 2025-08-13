@@ -5,6 +5,7 @@ Keywords: [context bleed, output drift, cross-session memory, context integrity,
 
 ## Table of Contents
 
+- [Creative Hallucination - 2025-08-10](creative-hallucination.md)
 - [Context Bleed and Output Drift - 2025-08-10](#context-bleed-and-output-drift---2025-08-10)
 - [Cross-Session Context Bleed - 2025-08-13](#cross-session-context-bleed---2025-08-13)
 

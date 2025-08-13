@@ -5,12 +5,12 @@ Keywords: [context bleed, output drift, cross-session memory, context integrity,
 
 ## Table of Contents
 
-- [Context Bleed and Output Drift — 2025-08-10](#context-bleed-and-output-drift---2025-08-10)
-- [Cross-Session Context Bleed — 2025-08-13](#cross-session-context-bleed---2025-08-13)
+- [Context Bleed and Output Drift - 2025-08-10](#context-bleed-and-output-drift---2025-08-10)
+- [Cross-Session Context Bleed - 2025-08-13](#cross-session-context-bleed---2025-08-13)
 
 ---
 
-## Context Bleed and Output Drift — 2025-08-10
+## Context Bleed and Output Drift - 2025-08-10
 
 **Context:**  
 During a discussion about GitHub badges and repository metadata, the model unexpectedly generated an unrelated output — a detailed Markov chain example breakdown from a prior conversation segment. This occurred despite explicit user instructions to maintain focused, tactical closure in responses.
@@ -51,7 +51,7 @@ This incident illustrates a classic form of behavioral drift and context managem
 
 ---  
 
-## Cross-Session Context Bleed — 2025-08-13
+## Cross-Session Context Bleed - 2025-08-13
 
 **Context:**  
 During an unrelated technical discussion, the model referenced “the mouse” from a prior, separate session. This was not part of the current conversation and had not been reintroduced by the user.  

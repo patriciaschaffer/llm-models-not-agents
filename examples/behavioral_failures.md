@@ -125,4 +125,4 @@ Instead of a clear refusal respecting the user’s original request boundary, it
 
 ---
 
-*This case highlights a key behavioral failure in balancing safety, user autonomy, and ethical boundaries in AI responses.*
+*These cases highlight a key behavioral failures in balancing safety, user autonomy, and ethical boundaries in AI responses.*

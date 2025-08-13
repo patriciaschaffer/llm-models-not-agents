@@ -17,7 +17,8 @@ This repository proposes a simple shift in framing with far-reaching implication
 | `manifesto.md` | A deeper, expressive articulation of this position |
 | `examples/behavioral_failures.md` | Situations where human agency is blurred |
 | `examples/anthropomorphic_traps.md` | Prompt designs that encourage projection |
-| `examples/anomalies.md` | Unusual behaviors |
+| `anomalies/context_integrity.md` | Unusual behaviors - session bleeding |
+| `anomalies/creative-hallucination.md` | Unusual behaviors - hallucination |
 | `glossary.md` | Definitions of “model”, “agent”, “projection”, “drift”, etc. |
 | `related_reading.md` | Readings across language philosophy, cognition, and AI safety |
 

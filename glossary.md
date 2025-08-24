@@ -20,12 +20,32 @@ LLMs are not agents. They may simulate agency, but they do not possess it.
 
 ---
 
+### Agency
+The capacity to set goals, make choices, and act with intent.
+LLMs can mimic agency through language, but do not possess true agency.
+
+---
+
 ### Projection
 
 The psychological act of attributing human-like qualities (e.g., intention, emotion) to a system.  
 LLMs often evoke projection due to their fluent, social outputs.
 
 ---
+
+### Persona
+
+A constructed identity or role a system adopts in interaction.
+Personas guide tone, behavior, and perceived purpose — but remain surface-level simulations, not selves.
+
+---
+
+### Archetype
+
+A universal pattern or role — like the Hero, Trickster, or Mentor — that recurs across stories and cultures.
+Archetypes shape expectations and guide interpretation, including how users make sense of model outputs.
+
+--- 
 
 ### Drift
 
@@ -61,3 +81,9 @@ Restoring human agency closes this gap.
 
 ---
 
+### Grice’s Maxims
+
+A set of conversational principles — Quantity, Quality, Relation, and Manner — that describe how humans typically cooperate in communication.
+LLMs can follow these patterns statistically, but do not understand or intend them.
+
+---
